@@ -21,19 +21,19 @@ To use the application, pls clone the repository, access Remix, and run **joint_
 
 Here are some images that illustrate the test transactions that were run:
 
-Adding Accounts:
+Set Accounts:
 
 ![A](ExecutionResults/AddingAccounts.PNG)
 
-Transaction 1:
+Deposit 1:
 
 ![B](ExecutionResults/Transaction1.PNG)
 
-Transaction 2:
+Deposit 2:
 
 ![C](ExecutionResults/Transaction2.PNG)
 
-Transaction 3:
+Deposit 3:
 
 ![D](ExecutionResults/Transaction3.PNG)
 
